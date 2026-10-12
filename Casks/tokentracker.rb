@@ -1,6 +1,6 @@
 cask "tokentracker" do
-  version "1.3.11"
-  sha256 "c650615eb00fcf2cb807cf1d279daca10ec219d982d571e6bc82299369586b5e"
+  version "1.3.13"
+  sha256 "0762bfbdd4b4ba7e2c8b1d4e87c309502ff4f01ccbd286505e5ae39ab1aa1152"
 
   url "https://github.com/xiufengsun/TokenTracker/releases/download/v#{version}/TokenTrackerBar.dmg"
   name "TokenTracker"
